@@ -1,0 +1,21 @@
+{
+  "name": "bezier-run-3d",
+  "version": "0.0.1",
+  "description": "一个3D贝塞尔曲线运行器。A 3D Bezier curve runner.",
+  "author": "Yesifang",
+  "license": "MIT",
+  "private": false,
+  "main": "index.js",
+  "homepage": "https://yesifang.com",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SuperYesifang/bezier-run-3d.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "bezier",
+    "run",
+    "speed",
+    "3d"
+  ]
+}
